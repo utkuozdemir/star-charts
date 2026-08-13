@@ -4,3 +4,7 @@ charts:
       repo: utkuozdemir/nvidia_gpu_exporter
       path: charts/utkuozdemir/nvidia_gpu_exporter
       state: active
+    - repoId: 170209617
+      repo: utkuozdemir/pv-migrate
+      path: charts/utkuozdemir/pv-migrate
+      state: active
