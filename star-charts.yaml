@@ -1,4 +1,4 @@
-schemaVersion: 1
+schemaVersion: 2
 charts:
     - repoId: 1333503844
       repo: utkuozdemir/gh-star-charts
