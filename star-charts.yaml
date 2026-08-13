@@ -1,5 +1,9 @@
 schemaVersion: 1
 charts:
+    - repoId: 1333503844
+      repo: utkuozdemir/gh-star-charts
+      path: charts/utkuozdemir/gh-star-charts
+      state: active
     - repoId: 375163159
       repo: utkuozdemir/nvidia_gpu_exporter
       path: charts/utkuozdemir/nvidia_gpu_exporter
