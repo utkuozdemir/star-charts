@@ -4,12 +4,14 @@
 <text x="776" y="28" font-size="14" text-anchor="end" fill="#59636e">&#9733; 2,386</text>
 <line x1="64" y1="288.0" x2="776" y2="288.0" stroke="#eaeef2" stroke-width="1"/>
 <text x="56" y="292.0" font-size="12" text-anchor="end" fill="#818b98">0</text>
-<line x1="64" y1="230.0" x2="776" y2="230.0" stroke="#eaeef2" stroke-width="1"/>
-<text x="56" y="234.0" font-size="12" text-anchor="end" fill="#818b98">625</text>
-<line x1="64" y1="172.0" x2="776" y2="172.0" stroke="#eaeef2" stroke-width="1"/>
-<text x="56" y="176.0" font-size="12" text-anchor="end" fill="#818b98">1,250</text>
-<line x1="64" y1="114.0" x2="776" y2="114.0" stroke="#eaeef2" stroke-width="1"/>
-<text x="56" y="118.0" font-size="12" text-anchor="end" fill="#818b98">1,875</text>
+<line x1="64" y1="241.6" x2="776" y2="241.6" stroke="#eaeef2" stroke-width="1"/>
+<text x="56" y="245.6" font-size="12" text-anchor="end" fill="#818b98">500</text>
+<line x1="64" y1="195.2" x2="776" y2="195.2" stroke="#eaeef2" stroke-width="1"/>
+<text x="56" y="199.2" font-size="12" text-anchor="end" fill="#818b98">1,000</text>
+<line x1="64" y1="148.8" x2="776" y2="148.8" stroke="#eaeef2" stroke-width="1"/>
+<text x="56" y="152.8" font-size="12" text-anchor="end" fill="#818b98">1,500</text>
+<line x1="64" y1="102.4" x2="776" y2="102.4" stroke="#eaeef2" stroke-width="1"/>
+<text x="56" y="106.4" font-size="12" text-anchor="end" fill="#818b98">2,000</text>
 <line x1="64" y1="56.0" x2="776" y2="56.0" stroke="#eaeef2" stroke-width="1"/>
 <text x="56" y="60.0" font-size="12" text-anchor="end" fill="#818b98">2,500</text>
 <line x1="143.1" y1="56" x2="143.1" y2="288" stroke="#eaeef2" stroke-width="1"/>
