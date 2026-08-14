@@ -15,7 +15,8 @@
 <text x="426" y="515" font-size="17" text-anchor="middle" fill="#f0f6fc">Date</text>
 <text x="26" y="276" font-size="17" text-anchor="middle" fill="#f0f6fc" transform="rotate(-90 26 276)">GitHub Stars</text>
 <path d="M 92.0,90.0 L 92.9,111.6 L 91.7,133.2 L 92.8,154.8 L 92.2,176.4 L 92.4,197.9 L 92.7,219.5 L 92.5,241.1 L 92.1,262.7 L 90.9,284.3 L 91.9,305.9 L 91.3,327.5 L 91.5,349.1 L 92.7,370.6 L 92.2,392.2 L 92.6,413.8 L 93.0,435.4 L 92.0,457.0 L 113.5,457.1 L 135.1,457.3 L 156.6,457.1 L 178.2,457.9 L 199.7,455.9 L 221.3,458.0 L 242.8,457.0 L 264.4,457.9 L 285.9,458.1 L 307.5,456.5 L 329.0,457.7 L 350.6,456.6 L 372.1,456.4 L 393.7,456.4 L 415.2,457.7 L 436.8,456.9 L 458.3,456.3 L 479.9,456.2 L 501.4,457.4 L 523.0,457.7 L 544.5,456.9 L 566.1,458.0 L 587.6,456.3 L 609.2,456.3 L 630.7,456.6 L 652.3,456.6 L 673.8,456.4 L 695.4,458.1 L 716.9,455.9 L 738.5,456.9 L 760.0,457.0" fill="none" stroke="#f0f6fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 92.0,457.0" fill="none" stroke="#dd6a50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 92.0,457.0 L 113.5,456.5 L 135.1,456.4 L 156.6,456.9 L 178.2,457.2 L 199.7,456.3 L 221.3,455.8 L 242.8,456.9 L 264.4,455.8 L 285.9,456.6 L 307.5,458.3 L 329.0,458.1 L 350.6,455.9 L 372.1,458.1 L 393.7,456.4 L 415.2,456.6 L 436.8,457.9 L 458.3,455.8 L 479.9,457.6 L 501.4,457.1 L 523.0,455.6 L 544.5,455.7 L 566.1,457.1 L 587.6,457.8 L 609.2,457.7 L 630.7,456.0 L 652.3,457.6 L 673.8,457.1 L 695.4,456.3 L 716.9,456.4 L 738.5,458.1 L 760.0,457.0" fill="none" stroke="#dd6a50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="92.0" cy="457.0" r="4" fill="#dd6a50"/>
-<text x="790" y="529" font-size="12" text-anchor="end" fill="#767e89">updated through 2026-08-13</text>
+<circle cx="760.0" cy="457.0" r="4" fill="#dd6a50"/>
+<text x="790" y="529" font-size="12" text-anchor="end" fill="#767e89">updated through 2026-08-14</text>
 </svg>
