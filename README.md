@@ -1,7 +1,7 @@
 <!-- star-charts:begin -->
 # star-charts
 
-Self-hosted GitHub star history charts, maintained by [gh-star-charts](https://github.com/utkuozdemir/gh-star-charts) v0.5.0. A daily workflow in this repository updates the data and the images using only its own ephemeral `GITHUB_TOKEN`. No stored credentials, and no external service in the serving path.
+Self-hosted GitHub star history charts, maintained by [gh-star-charts](https://github.com/utkuozdemir/gh-star-charts) v0.6.0. A daily workflow in this repository updates the data and the images using only its own ephemeral `GITHUB_TOKEN`. No stored credentials, and no external service in the serving path.
 
 ## utkuozdemir/gh-star-charts
 
