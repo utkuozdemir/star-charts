@@ -4,7 +4,7 @@
   "repo": "utkuozdemir/gh-star-charts",
   "observedSince": "2026-08-13",
   "prefixTruncated": false,
-  "lastChecked": "2026-08-15",
+  "lastChecked": "2026-08-16",
   "points": [
     {
       "date": "2026-08-13",
@@ -16,6 +16,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 1
+    },
+    {
+      "date": "2026-08-16",
       "stars": 1
     }
   ]
