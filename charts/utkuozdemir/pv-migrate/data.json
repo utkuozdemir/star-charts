@@ -4,7 +4,7 @@
   "repo": "utkuozdemir/pv-migrate",
   "observedSince": "2026-08-13",
   "prefixTruncated": false,
-  "lastChecked": "2026-08-26",
+  "lastChecked": "2026-08-27",
   "points": [
     {
       "date": "2019-03-05",
@@ -4836,6 +4836,10 @@
     },
     {
       "date": "2026-08-26",
+      "stars": 2397
+    },
+    {
+      "date": "2026-08-27",
       "stars": 2397
     }
   ]
