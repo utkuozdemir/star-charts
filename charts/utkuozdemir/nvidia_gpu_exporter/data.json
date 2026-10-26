@@ -4,7 +4,7 @@
   "repo": "utkuozdemir/nvidia_gpu_exporter",
   "observedSince": "2026-08-13",
   "prefixTruncated": false,
-  "lastChecked": "2026-10-25",
+  "lastChecked": "2026-10-26",
   "points": [
     {
       "date": "2021-06-12",
@@ -4085,6 +4085,10 @@
     {
       "date": "2026-10-25",
       "stars": 1572
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 1573
     }
   ]
 }
